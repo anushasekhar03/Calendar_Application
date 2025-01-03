@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calendar Application for Communication Tracking
 
 ## Objective
@@ -115,3 +116,6 @@ This is a calendar application designed for communication tracking.
 ![image](https://github.com/user-attachments/assets/505cb4cc-de93-4551-b448-655369d814b9)
 
 
+=======
+# Calendar_Application
+>>>>>>> 5aa06a2cacd9365a924ce886e2be2c27d4539a7b
